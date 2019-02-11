@@ -33,6 +33,10 @@ public class ExampleSubsystem extends Subsystem {
   public TalonSRX testFollower2 = new TalonSRX(6);
   
 
+  //Andy is a gay dude
+  
+
+
   public ExampleSubsystem (){
     testFollower1.follow(testSRX);
     testFollower2.follow(testSRX);
